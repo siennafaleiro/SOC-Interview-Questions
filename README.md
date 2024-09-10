@@ -90,7 +90,7 @@ Firewall is a device that allows or blocks the network traffic according to the 
 
 ### Explain Security Misconfiguration
 
-It is a security vulnerability caused by incomplete or incorrect misconfiguration.
+It is a security vulnerability caused by incomplete or incorrect configuration.
 
 ### Explain Vulnerability, Risk and Threat
 
