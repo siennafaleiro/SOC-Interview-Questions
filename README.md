@@ -1,6 +1,6 @@
  ## Contribute
 
-Let's make this repository full of interview questions!
+Let's make this repository full of interview questions and [**SOC Practice Test**](https://www.certfun.com/broadcom/250-443-symantec-cloudsoc-r2-technical-specialist)!
 
 This repository is maintained by [**LetsDefend**](https://letsdefend.io/). If you think any interview question is missing or incorrect, please feel free to **submit a pull request (PR)** to this repo. We will review the PR and merge if appropriate.
 
@@ -11,6 +11,7 @@ This repository is maintained by [**LetsDefend**](https://letsdefend.io/). If yo
 - [What should you expect?](https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#what-should-you-expect)
 	- Security Analyst
 	- Incident Response
+- [Common Tools SOC](https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#common-tools-soc)
 - [Pre-preparing](https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#pre-preparing)
 - [General](https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general)
 - [Network](https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#network)
