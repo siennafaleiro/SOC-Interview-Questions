@@ -11,7 +11,7 @@ This repository is maintained by [**LetsDefend**](https://letsdefend.io/). If yo
 - [What should you expect?](https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#what-should-you-expect)
 	- Security Analyst
 	- Incident Response
-- [Common Tools SOC](https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#common-tools-soc)
+- Common Tools SOC
 - [Pre-preparing](https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#pre-preparing)
 - [General](https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general)
 - [Network](https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#network)
@@ -47,10 +47,10 @@ Below is a list of the topics on which questions can be asked in the interview.
 
 Tools include:
 
-- SIEM (e.g., Splunk, QRadar)
+- SIEM (e.g., [**Splunk**](https://www.certfun.com/splunk), QRadar)
 - EDR (e.g., CrowdStrike, SentinelOne)
 - IDS/IPS (e.g., Snort, Suricata)
-- Ticketing tools (e.g., ServiceNow)
+- Ticketing tools (e.g., [**ServiceNow**](https://www.processexam.com/servicenow))
 
 
 ## Pre-preparing
